@@ -11,7 +11,7 @@
 <div style="display: flex; align-items: flex-start;">
     <!-- Photo Section -->
     <div style="margin-right: 20px; text-align: center;">
-        <img src="COL01833.JPG" alt="Cole DiGregorio" style="width: 150px; border-radius: 10%;">
+        <img src="Cole.JPG" alt="Cole DiGregorio" style="width: 150px; border-radius: 10%;">
     </div>
 </div>
 
