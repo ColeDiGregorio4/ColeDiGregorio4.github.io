@@ -1,4 +1,4 @@
-# Cole DiGregoriokefnwl
+# Cole DiGregorio
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
     <a href="resume.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">Resume</a>
