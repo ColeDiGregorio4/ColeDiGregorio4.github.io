@@ -2,7 +2,7 @@
 
 <!-- Tabs -->
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-    <a href="resume.html" target="_blank" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">Resume</a>
+    <a href="resume.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">Resume</a>
     <a href="social-media.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">Creative Media</a>
     <a href="linkedin-me.md" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">LinkedIn</a>
 </div>
