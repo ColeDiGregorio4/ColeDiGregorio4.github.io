@@ -2,7 +2,7 @@
 
 ## Photoshop
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="full.jpg" alt="Match Day Lineup">
 
 ## Illustrator
 
