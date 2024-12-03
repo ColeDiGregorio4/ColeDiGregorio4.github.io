@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: flex-start;">
     <!-- Profile Image Section -->
     <div style="margin-right: 20px;">
-        <img src="Cole.JPG" alt="Cole DiGregorio" style="width: 150px; height: auto; border-radius: 10%;">
+        <img src="Cole.JPG" alt="Cole DiGregorio" style="width: 300px; height: auto; border-radius: 10%;">
     </div>
     
     <!-- About Me Section -->
