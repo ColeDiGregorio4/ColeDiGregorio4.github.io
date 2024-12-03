@@ -9,20 +9,14 @@ In this course, we undertook a semester-long Connect4 coding project, which emph
 Below is the implementation of my project, showcasing the skills and concepts learned throughout the semester.
 
 ### Documentation
-
-<div style="display: flex; gap: 10px;">
-    <img src="Doc3.png" alt="Doc3">
-    <img src="Doc2.png" alt="Doc2">
-    <img src="Doc1.png" alt="Doc1">
-</div>
+<img src="Doc3.png" alt="Doc3">
+<img src="Doc2.png" alt="Doc2">
+<img src="Doc1.png" alt="Doc1">
 
 
 ### Unit testing
-
-<div style="display: flex; gap: 10px;">
-    <img src="Test1.png" alt="Test1">
-    <img src="Test2.png" alt="Test2">
-</div>
+<img src="Test1.png" alt="Test1">
+<img src="Test2.png" alt="Test2">
 
 ### Abstraction/Interfaces
 
