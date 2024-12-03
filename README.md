@@ -1,7 +1,7 @@
 # Cole DiGregorio
 
 <div style="display: flex; align-items: flex-start;">
-    <div style="margin-right: 50px; text-align: center;">
+    <div style="margin-right: 20px; text-align: center;">
         <img src="Cole.JPG" alt="Cole DiGregorio" style="width: 150px; border-radius: 10%;">
     </div>
 </div>
