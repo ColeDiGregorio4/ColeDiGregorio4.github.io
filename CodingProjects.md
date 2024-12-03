@@ -11,9 +11,9 @@ Below is the implementation of my project, showcasing the skills and concepts le
 ### Documentation
 
 <div style="display: flex; gap: 10px;">
-    <img src="Doc1.png" alt="Doc1"> //style="width:200px;height:250px;">
-    <img src="Doc2.png" alt="Doc2"> //style="width:200px;height:250px;">
-    <img src="Doc3.png" alt="Doc3"> //style="width:200px;height:250px;">
+    <img src="Doc3.png" alt="Doc3">
+    <img src="Doc2.png" alt="Doc2">
+    <img src="Doc1.png" alt="Doc1">
 </div>
 
 
