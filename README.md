@@ -1,4 +1,5 @@
 Cole DiGregorio
-===============
+=
 About me:
----------
+-
+
