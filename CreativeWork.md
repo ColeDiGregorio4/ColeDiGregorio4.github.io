@@ -7,7 +7,7 @@
     <img src="ManOfTheMatchRusty.jpg" alt="Man Of The Match Rusty" style="width:200px;height:250px;">
     <img src="Prez.jpg" alt="EC" style="width:200px;height:250px;">
     <img src="ScoreGeorgiaAside.jpg" alt="Score Georgia" style="width:200px;height:250px;">
-<div>
+</div>
 
 <div style="display: flex; gap: 10px;">
     <img src="UKNextMatch.jpg" alt="UK Next Match" style="width:200px;height:250px;">
