@@ -9,6 +9,12 @@ In this course, we undertook a semester-long Connect4 coding project, which emph
 Below is the implementation of my project, showcasing the skills and concepts learned throughout the semester.
 
 ### Documentation
+<div style="display: flex; gap: 20px; margin-top: 20px;">
+    <a href="Documentation.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Documentation</a>
+    <a href="UnitTesting" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Unit Testing</a>
+    <a href="Abs/Interfaces" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Abstraction/Interfaces</a>
+</div>
+
 <img src="Doc3.png" alt="Doc3">
 <img src="Doc2.png" alt="Doc2">
 <img src="Doc1.png" alt="Doc1">
