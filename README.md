@@ -1,6 +1,6 @@
 # Cole DiGregorio
 
-> ## About me:
+## About me:
 > 
 > I am a driven Computer Information Systems major at Clemson University, with a strong academic foundation and a passion for leveraging technology to solve complex problems. My education and professional experiences have equipped me with the technical skills and collaborative mindset necessary to excel in dynamic environments.
 Throughout my academic journey, I have completed coursework in Data Structures and Algorithms, Software Development, and Computer Organization, which have sharpened my problem-solving and programming abilities. My technical proficiency includes Java, C++, Linux, and advanced tools like Adobe Illustrator and Final Cut Pro, enabling me to bridge the gap between technical and creative disciplines.<br>
