@@ -1,15 +1,17 @@
 # Cole DiGregorio
 
-<div style="display: flex; align-items: flex-start;">
-    <div style="margin-right: 20px; text-align: center;">
-        <img src="COL01833.JPG" alt="Cole DiGregorio" style="width: 150px; border-radius: 10%;">
-        <div style="margin-top: 10px;">
-            <a href="Resume.pdf" target="_blank" style="text-decoration: none; color: blue; font-size: 16px;">Download My Resume</a>
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 10px;">
+        <img src="your-photo.jpg" alt="Your Name" style="width: 150px; border-radius: 10%;">
+        <div>
+            <a href="your-resume.pdf" target="_blank" style="text-decoration: none; color: blue;">Download My Resume</a>
         </div>
     </div>
-    <div> 
+    <div>
     </div>
 </div>
+
+
  ## About me:
 
 I am a driven Computer Information Systems major at Clemson University, with a strong academic foundation and a passion for leveraging technology to solve complex problems. My               education and professional experiences have equipped me with the technical skills and collaborative mindset necessary to excel in dynamic environments.  
