@@ -3,8 +3,6 @@
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 10px;">
         <img src="COL01833.JPG" alt="Your Name" style="width: 150px; border-radius: 10%;">
-        <div>
-            <a href="Resume.pdf" target="_blank" style="text-decoration: none; color: blue;">Download My Resume</a>
         </div>
     </div>
     <div>
