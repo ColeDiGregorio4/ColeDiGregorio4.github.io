@@ -18,3 +18,16 @@ Below is the implementation of my project, showcasing the skills and concepts le
 
 
 ### Unit testing
+
+<div style="display: flex; gap: 10px;">
+    <img src="Test1.png" alt="Test1">
+    <img src="Test2.png" alt="Test2">
+</div>
+
+### Abstraction/Interfaces
+
+<div style="display: flex; gap: 10px;">
+    <img src="Abs1.png" alt="Abs1">
+    <img src="Abs2.png" alt="Abs2">
+</div>
+
