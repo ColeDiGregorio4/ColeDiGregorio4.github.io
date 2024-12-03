@@ -2,8 +2,8 @@
 
 ## Photoshop
 
-<img src="full.jpg" alt="Match Day Lineup" width="200" height="300">
-<img src="full.jpg" alt="Match Day Lineup" width="200" height="300">
+<img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:300px;">
+<img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:300px;">
 
 ## Illustrator
 
