@@ -2,7 +2,7 @@
 
 ## Photoshop
 
-<img src="full.jpg" alt="Match Day Lineup">
+<img src="full.jpg" alt="Match Day Lineup" width="500" height="600">
 
 ## Illustrator
 
