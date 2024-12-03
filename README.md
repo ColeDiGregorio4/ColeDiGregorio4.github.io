@@ -7,9 +7,9 @@
 </div>
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-    <a href="resume.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 5px 10px; border-radius: 5px;">Resume</a>
-    <a href="linkedin-me.md" style="text-decoration: none; color: white; background-color: #007BFF; padding: 5px 10px; border-radius: 5px;">LinkedIn</a>
-    <a href="social-media.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 5px 10px; border-radius: 5px;">Creative Media</a>
+    <a href="resume.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Resume</a>
+    <a href="linkedin-me.md" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">LinkedIn</a>
+    <a href="social-media.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Creative Media</a>
 </div>
 
 ## About me:
