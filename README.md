@@ -1,14 +1,5 @@
 # Cole DiGregorio
 
-<div style="display: flex; align-items: center;">
-    <div style="margin-right: 10px;">
-        <img src="COL01833.JPG" alt="Your Name" style="width: 150px; border-radius: 10%;">
-        </div>
-    </div>
-    <div>
-    </div>
-</div>
-
 <!-- Tabs -->
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
     <a href="about-me.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">About Me</a>
@@ -28,6 +19,8 @@
         <p>Welcome to my personal site! Use the tabs above to navigate.</p>
     </div>
 </div>
+
+
 
  ## About me:
 
