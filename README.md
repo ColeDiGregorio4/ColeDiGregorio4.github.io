@@ -8,8 +8,6 @@
         </div>
     </div>
     <div>
-        <!-- Your other content here -->
-        <p>Your introduction or other text content can go here!</p>
     </div>
 </div>
 
