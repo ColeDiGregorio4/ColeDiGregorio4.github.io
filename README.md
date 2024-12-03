@@ -1,6 +1,7 @@
 # Cole DiGregorio
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
+    <a href="resume.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Resume</a>
     <a href="WhereToFindMe.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Where to find me</a>
     <a href="CodingProjects.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Coding Projects</a>
     <a href="CreativeWork.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Creative Media</a>
