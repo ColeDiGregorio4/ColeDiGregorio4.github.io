@@ -1,5 +1,12 @@
 # Cole DiGregorio
 
+<!-- Navigation Links -->
+<div style="display: flex; gap: 20px; margin-top: 20px;">
+    <a href="resume.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Resume</a>
+    <a href="linkedin-me.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">LinkedIn</a>
+    <a href="social-media.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Creative Media</a>
+</div>
+
 <div style="display: flex; align-items: flex-start;">
     <!-- Profile Image Section -->
     <div style="margin-right: 20px;">
@@ -16,12 +23,6 @@
     </div>
 </div>
 
-<!-- Navigation Links -->
-<div style="display: flex; gap: 20px; margin-top: 20px;">
-    <a href="resume.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Resume</a>
-    <a href="linkedin-me.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">LinkedIn</a>
-    <a href="social-media.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Creative Media</a>
-</div>
 
 
 
