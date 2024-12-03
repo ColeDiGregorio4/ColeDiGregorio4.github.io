@@ -1,6 +1,6 @@
 # Creative Works
 
-## Photoshop
+## Adobe Photoshop/Illustrator/Lighroom
 
 <div style="display: flex; gap: 10px;">
     <img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:250px;">
@@ -12,10 +12,6 @@
     <img src="ScoreBG.jpg" alt="Score BG" style="width:200px;height:250px;">
     <img src="scheduleinsta.jpg" alt="schedule" style="width:200px;height:250px;">
 </div>
-
-## Illustrator
-
-
 
 ## Final Cut Pro
 
