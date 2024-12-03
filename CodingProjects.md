@@ -32,7 +32,18 @@ Below is a showcase of my work, reflecting the skills and concepts learned throu
     <a href="Pizza.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Pizza Wars</a>
 </div>
 
+## Introduction to Computer Organization -- C
+In this course, we explored the foundational principles of how machine architectures support high-level languages, programming environments, and applications. Through hands-on projects and in-depth study, I gained experience in key areas, including:
+- Understanding the internal representation of non-numeric data, such as characters, strings, and arrays.
+- Interpreting simple programs at the assembly and machine levels.
+- Analyzing how instructions are represented in machine code and symbolic assemblers.
+- Examining memory management principles and the hierarchy of memory systems.
+- Exploring advanced C programming concepts and their role in systems programming.
 
+## Coding Projects
+
+<div style="display: flex; gap: 20px; margin-top: 20px;">
+    <a href="PPM.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Caesar PPM</a>
 
 
 
