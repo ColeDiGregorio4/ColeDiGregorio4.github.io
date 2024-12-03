@@ -10,7 +10,7 @@
     <img src="UKNextMatch.jpg" alt="UK Next Match" style="width:200px;height:250px;">
     <img src="GameWeekSouthCarolina.jpg" alt="South Carolina" style="width:200px;height:250px;">
     <img src="ScoreBG.jpg" alt="Score BG" style="width:200px;height:250px;">
-    <img src="scheduleinsta" alt="schedule" style="width:200px;height:250px;">
+    <img src="scheduleinsta.jpg" alt="schedule" style="width:200px;height:250px;">
 </div>
 
 ## Illustrator
