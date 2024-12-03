@@ -11,13 +11,11 @@ Below is the implementation of my project, showcasing the skills and concepts le
 ### Documentation
 <div style="display: flex; gap: 20px; margin-top: 20px;">
     <a href="Documentation.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Documentation</a>
-    <a href="UnitTesting" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Unit Testing</a>
-    <a href="Abs/Interfaces" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Abstraction/Interfaces</a>
+    <a href="UnitTesting.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Unit Testing</a>
+    <a href="Abs/Interfaces.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Abstraction/Interfaces</a>
 </div>
 
 ### Unit testing
-<img src="Test1.png" alt="Test1">
-<img src="Test2.png" alt="Test2">
 
 ### Abstraction/Interfaces
 
