@@ -43,7 +43,7 @@ In this course, we explored the foundational principles of how machine architect
 ## Coding Projects
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
-    <a href="PPM.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Caesar PPM</a>
+    <a href="PPM.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">PPM</a>
 
 
 
