@@ -1,17 +1,16 @@
 # Cole DiGregorio
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-    <a href="resume.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">Resume</a>
-    <a href="linkedin-me.md" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">LinkedIn</a>
-    <a href="social-media.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">Creative Media</a>
-</div>
-
 <div style="display: flex; align-items: flex-start;">
     <div style="margin-right: 20px; text-align: center;">
         <img src="Cole.JPG" alt="Cole DiGregorio" style="width: 150px; border-radius: 10%;">
     </div>
 </div>
 
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+    <a href="resume.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">Resume</a>
+    <a href="linkedin-me.md" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">LinkedIn</a>
+    <a href="social-media.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">Creative Media</a>
+</div>
 
 ## About me:
 
