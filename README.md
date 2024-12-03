@@ -16,7 +16,5 @@ Beyond academics, I have applied my skills in real-world settings, including dev
 
 As someone passionate about using technology to create meaningful impact, I am eager to contribute to innovative projects and continue expanding my expertise in Computer Information Systems. Whether it's coding, problem-solving, or collaborating with diverse teams, I am committed to driving results and making a difference.
 
-    </div>
-</div>
 
 
