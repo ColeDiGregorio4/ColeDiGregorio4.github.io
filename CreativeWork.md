@@ -15,7 +15,7 @@
 
 ## Final Cut Pro
 <div style="display: flex; gap: 10px;">
-    - [Instagram](https://www.instagram.com/clemsonmensrugby/)
-    - [YouTube](https://www.youtube.com/@coledigregorio4176)
-    - [Instagram](https://www.instagram.com/coledigregorio/)
+    <a href="https://www.instagram.com/clemsonmensrugby/">Clemson Rugby Instagram</a>
+    <a href="https://www.youtube.com/@coledigregorio4176">YouTube</a>
+    <a href="https://www.instagram.com/coledigregorio/">Personal Instagram</a>
 </div>
