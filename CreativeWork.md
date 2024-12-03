@@ -3,14 +3,14 @@
 ## Photoshop
 
 <div style="display: flex; gap: 10px;">
-    <img src="full.jpg" alt="Match Day Lineup" style="width:1080px;height:1350px;">
-    <img src="full.jpg" alt="Match Day Lineup" style="width:1080px;height:1350px;;">
-    <img src="full.jpg" alt="Match Day Lineup" style="width:1080px;height:1350px;;">
-    <img src="full.jpg" alt="Match Day Lineup" style="width:1080px;height:1350px;">
-    <img src="full.jpg" alt="Match Day Lineup" style="width:1080px;height:1350px;">
-    <img src="full.jpg" alt="Match Day Lineup" style="width:1080px;height:1350px;">
-    <img src="full.jpg" alt="Match Day Lineup" style="width:1080px;height:1350px;">
-    <img src="full.jpg" alt="Match Day Lineup" style="width:1080px;height:1350px;">
+    <img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:250px;">
+    <img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:250px;">
+    <img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:250px;">
+    <img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:250px;">
+    <img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:250px;">
+    <img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:250px;">
+    <img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:250px;">
+    <img src="full.jpg" alt="Match Day Lineup" style="width:200px;height:250px;">
 </div>
 
 ## Illustrator
