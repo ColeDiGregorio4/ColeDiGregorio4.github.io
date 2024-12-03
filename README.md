@@ -3,7 +3,6 @@
 <!-- Tabs -->
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
     <a href="social-media.html" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">Social Media</a>
-</div>
     <a href="linkedin-me.md" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">LinkedIn</a>
 </div>
 
