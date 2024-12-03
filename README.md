@@ -6,9 +6,7 @@
     <a href="linkedin-me.md" style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px;">LinkedIn</a>
 </div>
 
-<!-- Main Content -->
 <div style="display: flex; align-items: flex-start;">
-    <!-- Photo Section -->
     <div style="margin-right: 20px; text-align: center;">
         <img src="Cole.JPG" alt="Cole DiGregorio" style="width: 150px; border-radius: 10%;">
     </div>
