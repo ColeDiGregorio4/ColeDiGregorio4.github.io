@@ -1,6 +1,5 @@
 # Cole DiGregorio
 
-<!-- Navigation Links -->
 <div style="display: flex; gap: 20px; margin-top: 20px;">
     <a href="resume.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Resume</a>
     <a href="linkedin-me.html" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">LinkedIn</a>
@@ -8,12 +7,9 @@
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-    <!-- Profile Image Section -->
     <div style="margin-right: 20px;">
         <img src="Cole.JPG" alt="Cole DiGregorio" style="width: 300px; height: auto; border-radius: 10%;">
     </div>
-    
-    <!-- About Me Section -->
     <div style="max-width: 70%; flex-grow: 1;">
         <h2>About Me</h2>
         <p>I am a driven Computer Information Systems major at Clemson University, with a strong academic foundation and a passion for leveraging technology to solve complex problems. My education and professional experiences have equipped me with the technical skills and collaborative mindset necessary to excel in dynamic environments.</p>
