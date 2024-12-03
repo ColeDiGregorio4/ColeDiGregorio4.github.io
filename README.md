@@ -5,6 +5,7 @@
     <div style="flex-shrink: 0;">
         <img src="Cole.JPG" alt="Cole DiGregorio" style="width: 150px; border-radius: 10%;"/>
     </div>
+</div>
     
 ## About Me:
 I am a driven Computer Information Systems major at Clemson University, with a strong academic foundation and a passion for leveraging technology to solve complex problems. My education and professional experiences have equipped me with the technical skills and collaborative mindset necessary to excel in dynamic environments.
