@@ -1,6 +1,6 @@
 # Coding Projects
 
-## Software Dev Foundations
+## Software Dev Foundations -- Java
 In this course, we undertook a semester-long Connect4 coding project, which emphasized collaboration and applying foundational software development principles. My team and I gained experience in key areas, including:
 - Writing proper documentation to ensure code clarity and maintainability.
 - Implementing unit testing to validate functionality and maintain quality.
