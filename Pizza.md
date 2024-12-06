@@ -17,5 +17,5 @@ The Pizza Wars project simulates a week-long competition between two fictional p
   <a href="/PizzaWars/Date.cpp" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Date.cpp</a>
     <a href="/PizzaWars/Date.h" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Date.h</a>
     <a href="/PizzaWars/driver.cpp" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">Driver.cpp</a>
-  <a href="/PizzaWars/MysteryMechine.h" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">MysteryMechine</a>
+  <a href="/PizzaWars/MysteryMechine.h" style="text-decoration: none; color: white; background-color: #000000; padding: 5px 10px; border-radius: 5px;">MysteryMechine.h</a>
 </div>
